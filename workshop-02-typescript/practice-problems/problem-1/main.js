@@ -7,3 +7,4 @@ var user = {
     favFoods: favFoods
 };
 console.log(user);
+console.log(user.favFoods[1]);
